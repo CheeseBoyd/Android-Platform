@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T_UI_activity</string>
+    <string name="app_description">On click, crete a new activity</string>
+    <string name="new_activity_label">This is the new activity</string>
+</resources>

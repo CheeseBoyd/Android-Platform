@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">T_UI</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView_1">Example of layout in two different settings: In portrait and landscape</string>
+    <string name="textView_2">Example of layout in two different settings: In portrait and landscape</string>
+    <string name="button_label">Button</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T_Button_Press</string>
+    <string name="Main_button">Click Me!</string>
+    <string name="Translate">Clicked!</string>
+</resources>
